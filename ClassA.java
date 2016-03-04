@@ -5,6 +5,7 @@ public class ClassA{
 
 	private final String name;
 
+
 	public int getSomeVariable(){
 		return someVariable;
 	}
